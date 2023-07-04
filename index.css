@@ -1249,4 +1249,7 @@
   height: 5399px;
   overflow: hidden;
   font-family: var(--font-open-sans);
+  left: 50%;
+  padding-left: 120px;
+  transform: translateX(-53%);
 }
